@@ -27,7 +27,8 @@ form {
 }
 
 .form-item input,
-.form-item textarea {
+.form-item textarea, 
+.form-item select {
     flex-basis: 50%;
     border: 2px solid #FDDC5C;
 }

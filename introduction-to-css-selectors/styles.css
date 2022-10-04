@@ -1,0 +1,50 @@
+body {
+background-color: lavender;
+}
+
+
+.list-item {
+background-color: darkseagreen;
+
+}
+
+.main-heading{
+background-color: blue;
+margin-right: 10px;
+padding: 10px;
+border: 4px dotted green
+}
+
+#first-paragraph {
+    background-color: aqua;
+}
+
+nav {
+ width: 300px; 
+ height: 20px;
+ margin: 10px;
+}
+
+nav a {
+    display: in-line;
+}
+
+.nav-itemspurple {
+    background-color: mediumpurple;
+}
+
+#nav-itemsgold {
+    background-color: #3abbc9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+    font-size: 10px;
+}
+
+.divtest {
+    background-color: peachpuff;
+}
+
+#your-id{
+    width: 300px;
+    height: 200px;
+    border: 3px dashed orange
+}
