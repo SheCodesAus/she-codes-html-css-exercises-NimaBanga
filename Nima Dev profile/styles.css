@@ -1,0 +1,86 @@
+header{
+background-color: #ECEDF7;
+height: 140px;
+margin: 0%;
+padding: 0%;
+background-position: 80%;
+}
+
+#FrontLogo {
+    height: 100%;
+    width: auto;
+    display: inline-block; 
+}
+
+nav {
+    float: right;
+    padding: 50px;
+}
+
+nav a{    
+  padding: 10px;
+  color: black;
+  text-decoration: none;
+  font-size: 25px;
+  width: 25%
+}
+
+.container1{
+  position:relative;
+  text-align: center;
+  color: #f725a7;
+}
+
+.quote{
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.photo{
+  width:100%;
+  height: 600px;
+  opacity: 0.5;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+}
+
+.homepagebox {
+width:49%;
+height: 400px;
+background-color: black;
+text-align: center;
+font-size: xx-large;
+color: #f725a7;
+/* background-image: url(photos/Nima\ Headshot.jpg);
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+background-position: top; */
+}
+
+.material-icons{
+  font-size: 50px;
+  color: white;
+}
+
+.links{
+  font-size: 20px;
+  color: white;
+}
+
+footer{
+  padding: 20px;
+  background-color: #ECEDF7;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+

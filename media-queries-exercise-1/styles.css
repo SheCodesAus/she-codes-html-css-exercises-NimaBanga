@@ -1,3 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+.wrapper {
+    padding: 5px;
+    border: 2px solid pink;
+}
+
 .box {
     width: calc(100%-10px);
     margin: 5px;
@@ -28,13 +37,16 @@
 @media (max-width: 900px) {
     .green-box {
         height: 150px;
-        width: 100%
+        width: 100%;
         background-color: #00bb00;
     }
+
+    /*** Why blue box margin at end is not 5 px? when I use calc(100%-10px), it shortens width. Applies code to all three blue toxes as 1 entity? ***/
     .blue-box {
         height: 100px;
         width: 100%;
         background-color: #0099ff;
+        display: inline-block;
     }
 
     .grey-box {

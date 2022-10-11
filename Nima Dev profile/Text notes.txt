@@ -1,0 +1,10 @@
+Hex Codes
+    teal Blue: #5692a8
+    teal dark: #4e687e
+    teal darker: #474f65
+    purple light: #6a75af
+    purple medium: #644e8c
+    purple dark: #54496c
+    purple darker: #544f79
+    purple darkest: #4c4364
+    Purple background black: #3c334e
